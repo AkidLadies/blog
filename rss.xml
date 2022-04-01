@@ -3,8 +3,8 @@
     <channel>
         <title>海に行く</title>
         <subtitle>我有一个梦，也许有一天，灿烂的阳光能照进黑暗森林</subtitle>
-        <icon>https://xiongzi.top/images/favicon.ico</icon>
-        <link>https://xiongzi.top</link>
+        <icon>https://zzz.xiongzi.top/images/favicon.ico</icon>
+        <link>https://zzz.xiongzi.top</link>
         <author>
           <name>海に行く</name>
         </author>
@@ -13,11 +13,11 @@
         <pubDate>Wed, 16 Mar 2022 12:40:20 +0800</pubDate>
         <lastBuildDate>Wed, 16 Mar 2022 12:40:20 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://xiongzi.top/post/49435/</guid>
+            <guid isPermalink="true">https://zzz.xiongzi.top/post/49435/</guid>
             <title>使用Docsify搭建自己的知识库</title>
-            <link>https://xiongzi.top/post/49435/</link>
-            <category term="Docsify" scheme="https://xiongzi.top/categories/Docsify/" />
-            <category term="Docsify" scheme="https://xiongzi.top/tags/Docsify/" />
+            <link>https://zzz.xiongzi.top/post/49435/</link>
+            <category term="Docsify" scheme="https://zzz.xiongzi.top/categories/Docsify/" />
+            <category term="Docsify" scheme="https://zzz.xiongzi.top/tags/Docsify/" />
             <pubDate>Wed, 16 Mar 2022 12:40:20 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;🦄快速开始 -&lt;a href=&#34;/post/49435/&#34;&gt;🚀基本环境&lt;/a&gt; - &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzaWZ5LmpzLm9yZy8jLw==&#34;&gt;💌基础配置&lt;/span&gt; - &lt;a href=&#34;/post/88222415/&#34;&gt;📌定制功能&lt;/a&gt;&lt;/p&gt;
@@ -72,11 +72,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiongzi.top/post/88222415/</guid>
+            <guid isPermalink="true">https://zzz.xiongzi.top/post/88222415/</guid>
             <title>Docsify定制功能</title>
-            <link>https://xiongzi.top/post/88222415/</link>
-            <category term="Docsify" scheme="https://xiongzi.top/categories/Docsify/" />
-            <category term="Docsify" scheme="https://xiongzi.top/tags/Docsify/" />
+            <link>https://zzz.xiongzi.top/post/88222415/</link>
+            <category term="Docsify" scheme="https://zzz.xiongzi.top/categories/Docsify/" />
+            <category term="Docsify" scheme="https://zzz.xiongzi.top/tags/Docsify/" />
             <pubDate>Tue, 15 Mar 2022 12:44:41 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;🦄快速开始 -&lt;a href=&#34;/post/49435/&#34;&gt;🚀基本环境&lt;/a&gt; - &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzaWZ5LmpzLm9yZy8jLw==&#34;&gt;💌基础配置&lt;/span&gt; - &lt;a href=&#34;/post/88222415/&#34;&gt;📌定制功能&lt;/a&gt;&lt;/p&gt;
@@ -221,10 +221,10 @@ An alert of type ‘danger’ using global style ‘callout’.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiongzi.top/post/21631/</guid>
+            <guid isPermalink="true">https://zzz.xiongzi.top/post/21631/</guid>
             <title>OpenCv4.0学习笔记</title>
-            <link>https://xiongzi.top/post/21631/</link>
-            <category term="OpenCV" scheme="https://xiongzi.top/categories/OpenCV/" />
+            <link>https://zzz.xiongzi.top/post/21631/</link>
+            <category term="OpenCV" scheme="https://zzz.xiongzi.top/categories/OpenCV/" />
             <pubDate>Wed, 09 Mar 2022 19:39:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;opencv40学习笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#opencv40学习笔记&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;label primary&#34;&gt;OpenCv4.0 学习笔记&lt;/span&gt;&lt;/h1&gt;
 &lt;h1 id=&#34;显示第一张图片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#显示第一张图片&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;label primary&#34;&gt;显示第一张图片&lt;/span&gt;&lt;/h1&gt;
@@ -344,11 +344,11 @@ An alert of type ‘danger’ using global style ‘callout’.&lt;/p&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;span&gt;C++ 实例&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;QuickDemo&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;bifilter_demo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;Mat&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;image&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token class-name&#34;&gt;Mat&lt;/span&gt; dst&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;bilateralFilter&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;image&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;dst&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	   &lt;span class=&#34;token comment&#34;&gt;// 参数 1 代表原图，参数 2 代表处理之后的图像，参数 3 色彩空间。参数 4 表示坐标空间，双边是指 色彩空间和坐标空间。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;namedWindow&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;双边模糊&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; WINDOW_FREERATIO&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 创建了一个新窗口，参数 1 表示名称，第二个参数代表一个自由的比例&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;imshow&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;双边模糊&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; dst&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 表示显示在新创建的&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiongzi.top/post/36862/</guid>
+            <guid isPermalink="true">https://zzz.xiongzi.top/post/36862/</guid>
             <title>跨境通VISA/万事达借记卡介绍与网上支付体验</title>
-            <link>https://xiongzi.top/post/36862/</link>
-            <category term="万事达" scheme="https://xiongzi.top/categories/%E4%B8%87%E4%BA%8B%E8%BE%BE/" />
-            <category term="万事达" scheme="https://xiongzi.top/tags/%E4%B8%87%E4%BA%8B%E8%BE%BE/" />
+            <link>https://zzz.xiongzi.top/post/36862/</link>
+            <category term="万事达" scheme="https://zzz.xiongzi.top/categories/%E4%B8%87%E4%BA%8B%E8%BE%BE/" />
+            <category term="万事达" scheme="https://zzz.xiongzi.top/tags/%E4%B8%87%E4%BA%8B%E8%BE%BE/" />
             <pubDate>Thu, 03 Mar 2022 21:15:14 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;🦄快速开始 -&lt;a href=&#34;/post/36862/&#34;&gt;🚀VISA / 万事达&lt;/a&gt; - &lt;a href=&#34;/post/17977/&#34;&gt;📌购汇与转账&lt;/a&gt;&lt;/p&gt;
@@ -1014,7 +1014,7 @@ An alert of type ‘danger’ using global style ‘callout’.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://xiongzi.top/2022/03/03/%E4%B8%87%E4%BA%8B%E8%BE%BE/%E8%B7%A8%E5%A2%83%E9%80%9AVISA/%3E%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%80%9F%E8%AE%B0%E5%8D%A1%E4%BB%8B%E7%BB%8D%E4%B8%8E%E7%BD%91%E4%B8%8A%E6%94%AF%E4%BB%98%E4%BD%93%E9%AA%8C/%3E#2-%E4%BA%A4%E6%98%93%E6%8F%90%E9%86%92&#34;&gt;微信交易提醒存在延迟&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt; &lt;strong&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly94aW9uZ3ppLnRvcC8yMDIyLzAzLzAzLyVFNCVCOCU4NyVFNCVCQSU4QiVFOCVCRSVCRS8lRTglQjclQTglRTUlQTIlODMlRTklODAlOUFWSVNBLyUzRSVFNCVCOCU4NyVFNCVCQSU4QiVFOCVCRSVCRSVFNSU4MCU5RiVFOCVBRSVCMCVFNSU4RCVBMSVFNCVCQiU4QiVFNyVCQiU4RCVFNCVCOCU4RSVFNyVCRCU5MSVFNCVCOCU4QSVFNiU5NCVBRiVFNCVCQiU5OCVFNCVCRCU5MyVFOSVBQSU4Qy8lM0UjMi0lRTQlQkElQTQlRTYlOTglOTMlRTYlOEYlOTAlRTklODYlOTI=&#34;&gt;微信交易提醒存在延迟&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/AkidSummer/cdn@master/img/wan/boc_wechat_new.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1029,7 +1029,7 @@ An alert of type ‘danger’ using global style ‘callout’.&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/AkidSummer/cdn@master/img/wan/boc_sms.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;网上消费&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网上消费&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;label primary&#34;&gt;网上消费&lt;/span&gt;&lt;/h1&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;&lt;code&gt;重要：&lt;/code&gt; 用卡前，请阅读 &lt;strong&gt;&lt;a href=&#34;https://xiongzi.top/2022/03/03/%E4%B8%87%E4%BA%8B%E8%BE%BE/%E8%B7%A8%E5%A2%83%E9%80%9AVISA/%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%80%9F%E8%AE%B0%E5%8D%A1%E4%BB%8B%E7%BB%8D%E4%B8%8E%E7%BD%91%E4%B8%8A%E6%94%AF%E4%BB%98%E4%BD%93%E9%AA%8C/#6-%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97&#34;&gt;避坑指南&lt;/a&gt;&lt;/strong&gt; 。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;重要：&lt;/code&gt; 用卡前，请阅读 &lt;strong&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly94aW9uZ3ppLnRvcC8yMDIyLzAzLzAzLyVFNCVCOCU4NyVFNCVCQSU4QiVFOCVCRSVCRS8lRTglQjclQTglRTUlQTIlODMlRTklODAlOUFWSVNBLyVFNCVCOCU4NyVFNCVCQSU4QiVFOCVCRSVCRSVFNSU4MCU5RiVFOCVBRSVCMCVFNSU4RCVBMSVFNCVCQiU4QiVFNyVCQiU4RCVFNCVCOCU4RSVFNyVCRCU5MSVFNCVCOCU4QSVFNiU5NCVBRiVFNCVCQiU5OCVFNCVCRCU5MyVFOSVBQSU4Qy8jNi0lRTklODElQkYlRTUlOUQlOTElRTYlOEMlODclRTUlOEQlOTc=&#34;&gt;避坑指南&lt;/span&gt;&lt;/strong&gt; 。&lt;/p&gt;
 &lt;/div&gt;
 &lt;blockquote&gt;
 &lt;ol&gt;
@@ -1259,7 +1259,7 @@ An alert of type ‘danger’ using global style ‘callout’.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;手机银行无法查看未入账交易&lt;/strong&gt;&lt;br /&gt;
 手机银行只能显示所有未入账交易总和的预授权金额，既不能单独显示每一笔未入账交易，也不能查询商户名、消费金额和消费时间等交易信息。&lt;br /&gt;
 举个例子： 如果在某天连续刷了 $100、$200 和 $300 三笔交易，当天手机银行只能显示美元账户存在 $600 的预授权金额，除此之外没有更多信息。&lt;br /&gt;
-&lt;strong&gt;解决方法：&lt;/strong&gt; 人工柜台使用 &lt;strong&gt;&lt;a href=&#34;https://xiongzi.top/2022/03/03/%E4%B8%87%E4%BA%8B%E8%BE%BE/%E8%B7%A8%E5%A2%83%E9%80%9AVISA/%3E%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%80%9F%E8%AE%B0%E5%8D%A1%E4%BB%8B%E7%BB%8D%E4%B8%8E%E7%BD%91%E4%B8%8A%E6%94%AF%E4%BB%98%E4%BD%93%E9%AA%8C/#:~:text=3.-,%3E%E4%BA%BA%E5%B7%A5%E6%9F%9C%E5%8F%B0%EF%BC%88%E4%BA%A4%E6%98%93%E4%BB%A3%E7%A0%81%20037671%EF%BC%89,-%E8%BF%99%E7%A7%8D%E6%96%B9%E6%B3%95%E5%8F%AF%E4%BB%A5&#34;&gt;交易代码 037671&lt;/a&gt;&lt;/strong&gt; 可以查 &amp;gt; 询到未入账交易。&lt;/p&gt;
+&lt;strong&gt;解决方法：&lt;/strong&gt; 人工柜台使用 &lt;strong&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly94aW9uZ3ppLnRvcC8yMDIyLzAzLzAzLyVFNCVCOCU4NyVFNCVCQSU4QiVFOCVCRSVCRS8lRTglQjclQTglRTUlQTIlODMlRTklODAlOUFWSVNBLyUzRSVFNCVCOCU4NyVFNCVCQSU4QiVFOCVCRSVCRSVFNSU4MCU5RiVFOCVBRSVCMCVFNSU4RCVBMSVFNCVCQiU4QiVFNyVCQiU4RCVFNCVCOCU4RSVFNyVCRCU5MSVFNCVCOCU4QSVFNiU5NCVBRiVFNCVCQiU5OCVFNCVCRCU5MyVFOSVBQSU4Qy8jOn46dGV4dD0zLi0sJTNFJUU0JUJBJUJBJUU1JUI3JUE1JUU2JTlGJTlDJUU1JThGJUIwJUVGJUJDJTg4JUU0JUJBJUE0JUU2JTk4JTkzJUU0JUJCJUEzJUU3JUEwJTgxJTIwMDM3NjcxJUVGJUJDJTg5LC0lRTglQkYlOTklRTclQTclOEQlRTYlOTYlQjklRTYlQjMlOTUlRTUlOEYlQUYlRTQlQkIlQTU=&#34;&gt;交易代码 037671&lt;/span&gt;&lt;/strong&gt; 可以查 &amp;gt; 询到未入账交易。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;微信交易提醒存在延迟&lt;/strong&gt;&lt;br /&gt;
@@ -1495,7 +1495,7 @@ An alert of type ‘danger’ using global style ‘callout’.&lt;/p&gt;
 &lt;/table&gt;
 &lt;blockquote&gt;
 &lt;p&gt;其中 &lt;code&gt;清算日期&lt;/code&gt; 指入账时间， &lt;code&gt;剩余圈存额&lt;/code&gt; 指处于冻结状态的资金金额。&lt;br /&gt;
-如果 &lt;code&gt;清算日期&lt;/code&gt; 为空白且 &lt;code&gt;剩余圈存额&lt;/code&gt; 为 0，这是网站 &lt;strong&gt;&lt;a href=&#34;https://xiongzi.top/2022/03/03/%E4%B8%87%E4%BA%8B%E8%BE%BE/%E8%B7%A8%E5%A2%83%E9%80%9AVISA/%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%80%9F%E8%AE%B0%E5%8D%A1%E4%BB%8B%E7%BB%8D%E4%B8%8E%E7%BD%91%E4%B8%8A%E6%94%AF%E4%BB%98%E4%BD%93%E9%AA%8C/#:~:text=%E2%91%A1-,%E8%B4%A6%E6%88%B7%E4%BD%99%E9%A2%9D%E9%97%AE%E9%A2%98,-%E7%BB%91%E5%8D%A1%E6%88%96%E8%80%85&#34;&gt;验卡记录&lt;/a&gt;&lt;/strong&gt;，可以忽略。&lt;/p&gt;
+如果 &lt;code&gt;清算日期&lt;/code&gt; 为空白且 &lt;code&gt;剩余圈存额&lt;/code&gt; 为 0，这是网站 &lt;strong&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly94aW9uZ3ppLnRvcC8yMDIyLzAzLzAzLyVFNCVCOCU4NyVFNCVCQSU4QiVFOCVCRSVCRS8lRTglQjclQTglRTUlQTIlODMlRTklODAlOUFWSVNBLyVFNCVCOCU4NyVFNCVCQSU4QiVFOCVCRSVCRSVFNSU4MCU5RiVFOCVBRSVCMCVFNSU4RCVBMSVFNCVCQiU4QiVFNyVCQiU4RCVFNCVCOCU4RSVFNyVCRCU5MSVFNCVCOCU4QSVFNiU5NCVBRiVFNCVCQiU5OCVFNCVCRCU5MyVFOSVBQSU4Qy8jOn46dGV4dD0lRTIlOTElQTEtLCVFOCVCNCVBNiVFNiU4OCVCNyVFNCVCRCU5OSVFOSVBMiU5RCVFOSU5NyVBRSVFOSVBMiU5OCwtJUU3JUJCJTkxJUU1JThEJUExJUU2JTg4JTk2JUU4JTgwJTg1&#34;&gt;验卡记录&lt;/span&gt;&lt;/strong&gt;，可以忽略。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr /&gt;
 &lt;h1 id=&#34;权益和优惠活动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#权益和优惠活动&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;label primary&#34;&gt;权益和优惠活动&lt;/span&gt;&lt;/h1&gt;
@@ -1543,11 +1543,11 @@ An alert of type ‘danger’ using global style ‘callout’.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiongzi.top/post/17977/</guid>
+            <guid isPermalink="true">https://zzz.xiongzi.top/post/17977/</guid>
             <title>中国银行手机银行购汇与转账教程</title>
-            <link>https://xiongzi.top/post/17977/</link>
-            <category term="万事达" scheme="https://xiongzi.top/categories/%E4%B8%87%E4%BA%8B%E8%BE%BE/" />
-            <category term="万事达" scheme="https://xiongzi.top/tags/%E4%B8%87%E4%BA%8B%E8%BE%BE/" />
+            <link>https://zzz.xiongzi.top/post/17977/</link>
+            <category term="万事达" scheme="https://zzz.xiongzi.top/categories/%E4%B8%87%E4%BA%8B%E8%BE%BE/" />
+            <category term="万事达" scheme="https://zzz.xiongzi.top/tags/%E4%B8%87%E4%BA%8B%E8%BE%BE/" />
             <pubDate>Thu, 03 Mar 2022 21:15:14 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;🦄快速开始 -&lt;a href=&#34;/post/36862/&#34;&gt;🚀VISA / 万事达&lt;/a&gt; - &lt;a href=&#34;/post/17977/&#34;&gt;📌购汇与转账&lt;/a&gt;&lt;/p&gt;
