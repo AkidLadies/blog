@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zzz.xiongzi.top/collect/history/index.html</loc>
+    <loc>https://gitee.com/kiraral/blog/collect/history/index.html</loc>
     
     <lastmod>2022-03-18</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/post/88222415/</loc>
+    <loc>https://gitee.com/kiraral/blog/post/88222415/</loc>
     
     <lastmod>2022-03-18</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/post/21631/</loc>
+    <loc>https://gitee.com/kiraral/blog/post/21631/</loc>
     
     <lastmod>2022-03-16</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/post/17977/</loc>
+    <loc>https://gitee.com/kiraral/blog/post/17977/</loc>
     
     <lastmod>2022-03-16</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/post/49435/</loc>
+    <loc>https://gitee.com/kiraral/blog/post/49435/</loc>
     
     <lastmod>2022-03-16</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/post/36862/</loc>
+    <loc>https://gitee.com/kiraral/blog/post/36862/</loc>
     
     <lastmod>2022-03-16</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/collect/index.html</loc>
+    <loc>https://gitee.com/kiraral/blog/collect/index.html</loc>
     
     <lastmod>2022-03-09</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/collect/comments/index.html</loc>
+    <loc>https://gitee.com/kiraral/blog/collect/comments/index.html</loc>
     
     <lastmod>2022-03-05</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/collect/URL/index.html</loc>
+    <loc>https://gitee.com/kiraral/blog/collect/URL/index.html</loc>
     
     <lastmod>2022-03-01</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/collect/about/index.html</loc>
+    <loc>https://gitee.com/kiraral/blog/collect/about/index.html</loc>
     
     <lastmod>2022-03-01</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/collect/cartoon/index.html</loc>
+    <loc>https://gitee.com/kiraral/blog/collect/cartoon/index.html</loc>
     
     <lastmod>2022-02-21</lastmod>
     
@@ -102,23 +102,23 @@
   
 
   <url>
-    <loc>https://zzz.xiongzi.top/</loc>
-    <lastmod>2022-04-01</lastmod>
+    <loc>https://gitee.com/kiraral/blog</loc>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://zzz.xiongzi.top/tags/Docsify/</loc>
-    <lastmod>2022-04-01</lastmod>
+    <loc>https://gitee.com/kiraral/blog/tags/Docsify/</loc>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/tags/%E4%B8%87%E4%BA%8B%E8%BE%BE/</loc>
-    <lastmod>2022-04-01</lastmod>
+    <loc>https://gitee.com/kiraral/blog/tags/%E4%B8%87%E4%BA%8B%E8%BE%BE/</loc>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -126,22 +126,22 @@
 
   
   <url>
-    <loc>https://zzz.xiongzi.top/categories/Docsify/</loc>
-    <lastmod>2022-04-01</lastmod>
+    <loc>https://gitee.com/kiraral/blog/categories/Docsify/</loc>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/categories/%E4%B8%87%E4%BA%8B%E8%BE%BE/</loc>
-    <lastmod>2022-04-01</lastmod>
+    <loc>https://gitee.com/kiraral/blog/categories/%E4%B8%87%E4%BA%8B%E8%BE%BE/</loc>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zzz.xiongzi.top/categories/OpenCV/</loc>
-    <lastmod>2022-04-01</lastmod>
+    <loc>https://gitee.com/kiraral/blog/categories/OpenCV/</loc>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
