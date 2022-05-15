@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gitee.com/kiraral/blog/collect/links/index.html</loc>
+    
+    <lastmod>2022-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gitee.com/kiraral/blog/collect/history/index.html</loc>
     
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gitee.com/kiraral/blog/collect/comments/index.html</loc>
+    
+    <lastmod>2022-05-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,24 +74,6 @@
   </url>
   
   <url>
-    <loc>https://gitee.com/kiraral/blog/collect/index.html</loc>
-    
-    <lastmod>2022-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gitee.com/kiraral/blog/collect/comments/index.html</loc>
-    
-    <lastmod>2022-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://gitee.com/kiraral/blog/collect/URL/index.html</loc>
     
     <lastmod>2022-03-01</lastmod>
@@ -86,15 +86,6 @@
     <loc>https://gitee.com/kiraral/blog/collect/about/index.html</loc>
     
     <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gitee.com/kiraral/blog/collect/cartoon/index.html</loc>
-    
-    <lastmod>2022-02-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
